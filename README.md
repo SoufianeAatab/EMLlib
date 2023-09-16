@@ -49,11 +49,7 @@ EMLlib supports a variety of embedded platforms. To upload the project to your s
 
 2. In Visual Studio Code, ensure that the correct target device is selected in the PlatformIO toolbar.
 
-3. Click on the upload button (usually represented as an arrow icon pointing to the right) in the PlatformIO toolbar. This will compile and upload the project to your connected device.
-
-Congratulations! You have successfully set up and deployed the EMLlib example project on your embedded device.
-
-For more information and documentation on using EMLlib, please refer to the official documentation at [https://github.com/your-username/EMLlib](https://github.com/your-username/EMLlib).
+3. Click on the upload button in the PlatformIO toolbar. This will compile and upload the project to your connected device.
 
 ## License
 
