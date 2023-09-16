@@ -14,10 +14,8 @@ Before you begin, ensure you have the following prerequisites:
 1. **Clone the EMLlib repository:** Clone the EMLlib repository to your local machine using your preferred Git client or by running the following command in your terminal:
 
    ```
-   git clone https://github.com/your-username/EMLlib.git
+   git clone https://github.com/SoufianeAatab/EMLlib.git
    ```
-
-   Replace `your-username` with your actual GitHub username.
 
 2. **Open Visual Studio Code:** Launch Visual Studio Code.
 
