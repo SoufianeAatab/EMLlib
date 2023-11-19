@@ -17,7 +17,7 @@ Before you begin, ensure you have the following prerequisites:
    git clone https://github.com/SoufianeAatab/EMLlib.git
    ```
 
-2. **Open Visual Studio Code:** Launch Visual Studio Code.
+2. **Open Visual Studio Code:** Launch Visual Studio Code with the PlatformIO extension.
 
 3. **Add Existing Project:**
 
@@ -27,7 +27,7 @@ Before you begin, ensure you have the following prerequisites:
 4. **Add EMLlib Project:**
 
    - Click on "Add Existing" and browse to the location where you cloned the EMLlib repository.
-   - Select the `examples/feed-forward` project within the EMLlib repository.
+   - Select the one of the projects in the `examples` folder` within the EMLlib repository.
 
 ## Building the Project
 
@@ -37,7 +37,7 @@ Once you've added the EMLlib project to your PlatformIO workspace, you can build
 
 2. Click on the "Projects" button to see your added projects.
 
-3. Select the `examples/feed-forward` project.
+3. Go to the `examples` folder and choose your project.
 
 4. Build the project by clicking on the build button (usually represented as a checkmark icon) in the PlatformIO toolbar.
 
@@ -45,7 +45,7 @@ Once you've added the EMLlib project to your PlatformIO workspace, you can build
 
 EMLlib supports a variety of embedded platforms. To upload the project to your specific target device, follow these steps:
 
-1. Connect your target embedded device (e.g., Arduino Portenta H7) to your computer.
+1. Connect your target embedded device (e.g., Arduino Portenta H7) to your computer. Add or activate it in the platformio.ini file.
 
 2. In Visual Studio Code, ensure that the correct target device is selected in the PlatformIO toolbar.
 
